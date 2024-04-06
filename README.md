@@ -14,4 +14,4 @@ Persona 3:
 ![p3](https://github.com/Vincent2228/Persona-Jukebox/assets/65806408/ca2d9567-4b2d-48de-ab56-8456d73bf5bb)
 
 <br/>
-![p5](https://github.com/Vincent2228/Persona-Jukebox/assets/65806408/120d689c-22d1-4847-ae09-b13e8b972a48)
+![image](https://github.com/Vincent2228/Persona-Jukebox/assets/65806408/120d689c-22d1-4847-ae09-b13e8b972a48)
