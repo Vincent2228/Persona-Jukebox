@@ -12,7 +12,3 @@ Persona 1:
 Persona 3:
 <br/>
 ![p3](https://github.com/Vincent2228/Persona-Jukebox/assets/65806408/ca2d9567-4b2d-48de-ab56-8456d73bf5bb)
-
-<br/>
-![image](https://github.com/Vincent2228/Persona-Jukebox/assets/65806408/6732bd1a-c84f-4f19-8ae6-5d2205c2977e)
-
